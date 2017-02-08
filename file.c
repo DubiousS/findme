@@ -21,6 +21,9 @@ int main() {
         return 1;
     }
 
+
+    //123
+
     int mass[col][rows];
     matrix(col, rows, &mass[0][0]);
     fmatrix(name, &mass[0][0], col, rows);
